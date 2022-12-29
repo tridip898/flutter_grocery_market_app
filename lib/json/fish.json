@@ -1,0 +1,102 @@
+[
+  {
+    "item": "Desi Rui",
+    "image": "lib/images/rui_fish.png",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "03",
+    "old_price": "05",
+    "description": "The rohu, rui, ruhi or roho labeo is a species of fish of the carp family, found in rivers in South Asia. It is a large omnivore and extensively used in aquaculture."
+  },
+  {
+    "item": "Desi Katla",
+    "image": "lib/images/katla_fish.png",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "5.5",
+    "old_price": "06",
+    "description": "Katla fish is very fast growing and suitable fish breed for farming in freshwater pond. It is a very tasty and nutritious fish."
+  },
+  {
+    "item": "Hilsa Fish",
+    "image": "lib/images/ilish_fish.png",
+    "quantity": "1",
+    "determiner": "pc",
+    "new_price": "12",
+    "old_price": "15",
+    "description": "Hilsa fish is one of the few fishes that is quite famous for its incredibly soft meat. It is found in rivers and estuaries in Bangladesh, India, Pakistan, Myanmar and the Persian Gulf area but highest proportion of fish caught in Bangladesh area."
+  },
+  {
+    "item": "River Boal",
+    "image": "lib/images/boal_fish.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "08",
+    "old_price": "11",
+    "description": "Boal fish inhabits rivers, large and small, beels, reservoir, baors and enters the floodplains and roadside ditches. It is a voracious, carnivorous, well known predatory fish."
+  },
+  {
+    "item": "Golda Chingri",
+    "image": "lib/images/chingri.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "09",
+    "old_price": "11",
+    "description": "Lovingly called Bhetki by the Bengali's in the east but internationally known as the Asian Sea Bass, this fish has a mild flavour, white flaky flesh with varying amount of body fat. It's quite an iconic table fair in the Australian and Thai cuisines."
+  },
+  {
+    "item": "Salmon",
+    "image": "lib/images/sal.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "12",
+    "old_price": "17",
+    "description": "A salmon is a large silver-coloured fish. Salmon is the pink flesh of this fish which is eaten as food. It is often smoked and eaten raw."
+  },
+  {
+    "item": "Koral Fish",
+    "image": "lib/images/koral_fish.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "12",
+    "old_price": "15",
+    "description": "Lovingly called Bhetki by the Bengali's in the east but internationally known as the Asian Sea Bass, this fish has a mild flavour, white flaky flesh with varying amount of body fat. It's quite an iconic table fair in the Australian and Thai cuisines."
+  },
+  {
+    "item": "Koi Fish",
+    "image": "lib/images/koi_fish.png",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "04",
+    "old_price": "06",
+    "description": "The Gangetic koi, popularly known as Koi in Bengali is a species of climbing gourami native to Bangladesh and India, where it occurs in many types of standing water bodies."
+  },
+  {
+    "item": "Desi Shing",
+    "image": "lib/images/sing_fish.png",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "09",
+    "old_price": "12",
+    "description": "The shing fish, locally known as stinging catfish is an indigenous species, which is considered one of the most highly demanded freshwater air breathing fish species in the Indian sub- continent."
+  },
+  {
+    "item": "Japanese Puti",
+    "image": "lib/images/puti_fish.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "03",
+    "old_price": "04",
+    "description": "Puti is a tropical freshwater and brackish fish belonging to the Punitius genus in the family Cyprinidae. It is native to inland waters in Asia and is found in India, Nepal, Bangladesh, Bhutan, Pakistan and China."
+  },
+  {
+    "item": "Silver Pomfret",
+    "image": "lib/images/promfet.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "10",
+    "old_price": "13",
+    "description": "A seawater fish with one single bone. Found in the Atlantic, Indian and Pacific oceans. Pomfrets have flat bodies and deeply forked tails. When it comes to taste, this fish have a mild tinge of sweetness complemented by its fine texture."
+  }
+
+]

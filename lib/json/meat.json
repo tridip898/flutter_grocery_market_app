@@ -1,0 +1,84 @@
+[
+  {
+    "item": "Beef Brisket",
+    "image": "lib/images/beef_brisket.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "12",
+    "old_price": "15",
+    "description": "Brisket is a cut of beef that comes from the lower breast or pectoral muscles of a cow. Because this area is so well-exercised, it makes for quite a tough piece of meat that's full of connective tissue."
+  },
+  {
+    "item": "Beef Ribs",
+    "image": "lib/images/beef_rib.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "14",
+    "old_price": "18",
+    "description": "Beef back ribs are cut from the back of the cow in the dorsal area behind the shoulders. The rib area is where prime rib roast and ribeye steaks are cut. After the prime rib roast is cut, the small amount of meat attached to the rib bones is the beef back ribs cut."
+  },
+  {
+    "item": "Beef Chuck",
+    "image": "lib/images/beef_chuck.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "11",
+    "old_price": "13",
+    "description": "The beef chuck cut comes from the animal's upper shoulder and lower neck. Steaks and roasts come from this area. Because the shape of the shoulder bone looks like a seven, chuck steaks are known as 7-bone steaks."
+  },
+  {
+    "item": "Beef Shank",
+    "image": "lib/images/beef_shank.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "12",
+    "old_price": "15",
+    "description": "Located beneath the brisket, shank meat is cut from the leg above the knee to the shoulder or hip. The former is the cut for the forelegs and the latter for the hind legs. Because this area is full of connective tissue, the meat is quite tough."
+  },
+  {
+    "item": "Beef Keema",
+    "image": "lib/images/minch_beef.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "07",
+    "old_price": "10",
+    "description": "Minced meat is called keema or qeema in the Indian subcontinent. Keema can be grilled on a skewer and is then called seekh kebab, or it is used as a filling for samosas or naan."
+  },
+  {
+    "item": "Beef Round",
+    "image": "lib/images/beef_round.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "13",
+    "old_price": "14",
+    "description": "The beef round is a large primal cut consisting mainly of the rear leg and rump of the animal. Steaks and roasts from the beef round can be tough since those muscles get a lot of exercise."
+  },
+  {
+    "item": "Beef Steak",
+    "image": "lib/images/beef_strak.jpg",
+    "quantity": "1",
+    "determiner": "pc",
+    "new_price": "09",
+    "old_price": "12",
+    "description": "Steak is a food that can be described as tender, flavorful, juicy, and cooked to perfection; in fact, most consumers describe their ideal steak as just that"
+  },
+  {
+    "item": "Beef Marrow",
+    "image": "lib/images/marrow_bones.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "07",
+    "old_price": "08",
+    "description": "A Marrow Bone is the culinary and butchery term for either the Femur, Shank or Tibia bone of a steer that is cut for eating. As the Femur is the largest bone in the animal, it has the best Marrow to Bone ratio."
+  },
+  {
+    "item": "Beef Belly",
+    "image": "lib/images/beef_plate_belly.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "10",
+    "old_price": "12",
+    "description": "Beef plate is a forequarter cut from the belly of the cow, just below the rib cut. It is typically a cheap, tough, and fatty meat. In U.K. butchery, this cut is considered part of the brisket."
+  }
+
+]

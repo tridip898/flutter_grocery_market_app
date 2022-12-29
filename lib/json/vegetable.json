@@ -1,0 +1,102 @@
+[
+  {
+    "item": "Potato",
+    "image": "lib/images/potato.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "0.7",
+    "old_price": "1",
+    "description": "The potato is a starchy food, a tuber of the plant Solanum tuberosum and is a root vegetable native to the Americas. Potato. Potato cultivars appear in a variety of colors, shapes, and sizes."
+  },
+  {
+    "item": "Cauliflower",
+    "image": "lib/images/cauliflower.jpg",
+    "quantity": "1",
+    "determiner": "pc",
+    "new_price": "0.6",
+    "old_price": "1",
+    "description": "The cauliflower is a vegetable that belongs to the cabbage family. The part that one consumes is the flower or inflorescence, highly appreciated for its taste."
+  },
+  {
+    "item": "Broccoli",
+    "image": "lib/images/broccoli.jpg",
+    "quantity": "1",
+    "determiner": "pc",
+    "new_price": "0.9",
+    "old_price": "1.4",
+    "description": "Broccoli has large flower heads, usually dark green, arranged in a tree-like structure branching out from a thick stalk which is usually light green. The mass of flower heads is surrounded by leaves."
+  },
+  {
+    "item": "Black Brinjal",
+    "image": "lib/images/brinjal.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "2",
+    "old_price": "2.5",
+    "description": "They are usually red, scarlet, or yellow, though green and purple varieties do exist, and they vary in shape from almost spherical to oval and elongate to pear-shaped."
+  },
+  {
+    "item": "Tomato",
+    "image": "lib/images/tomato1.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "1.5",
+    "old_price": "3",
+    "description": "They are usually red, scarlet, or yellow, though green and purple varieties do exist, and they vary in shape from almost spherical to oval and elongate to pear-shaped."
+  },
+  {
+    "item": "Capsicums",
+    "image": "lib/images/capsicums.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "3.5",
+    "old_price": "4",
+    "description": "Capsicum is the genus of pepper plants, which includes sweet peppers such as bell peppers. These peppers are a part of the nightshade family along with eggplant, potatoes and tomatoes."
+  },
+  {
+    "item": "Green Chilli",
+    "image": "lib/images/green_chillies.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "03",
+    "old_price": "3.5",
+    "description": "Green chillies are a common vegetable used in Indian kitchens for their spicy taste. Green chile peppers are tangy, sharp, and pungent with a vegetal, earthy flavor and may be heatless or contain a moderate level of spice."
+  },
+  {
+    "item": "Pumpkin",
+    "image": "lib/images/pumpkin.jpg",
+    "quantity": "1",
+    "determiner": "pc",
+    "new_price": "5",
+    "old_price": "8",
+    "description": "Pumpkins are often yellowish to orange in colour, and they vary from oblate to globular to oblong; some feature a white rind. The rind is smooth and usually lightly furrowed or ribbed. The fruit stem is hard and woody, ridged, and angled."
+  },
+  {
+    "item": "Cucumber",
+    "image": "lib/images/cucumber.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "1",
+    "old_price": "1.5",
+    "description": "Cucumbers are a type of edible plant that belongs to the gourd family. It's widely cultivated and makes a nutritious addition to any diet. Cucumber is usually considered a vegetable because of how it's used in the culinary world."
+  },
+  {
+    "item": "Carrot",
+    "image": "lib/images/carrot.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "1.2",
+    "old_price": "1.4",
+    "description": "The carrot is a root vegetable often claimed to be the perfect health food. It is crunchy, tasty, and highly nutritious. Carrots are a particularly good source of beta carotene, fiber, vitamin K1, potassium."
+  },
+  {
+    "item": "Green Banana",
+    "image": "lib/images/green_banana.jpg",
+    "quantity": "1",
+    "determiner": "pc",
+    "new_price": "0.75",
+    "old_price": "1",
+    "description": "Raw bananas are also called green bananas; they are unripe, have a firm flesh and are less sweet than a ripe banana. Fruits play a key role in a healthy diet because of the presence of fibre, and a host of vitamins and minerals."
+  }
+
+]

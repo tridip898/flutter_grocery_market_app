@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Meat",
+    "icon": "lib/icons/meat.png"
+  },
+  {
+    "text": "Fish",
+    "icon": "lib/icons/fish.png"
+  },
+  {
+    "text": "Vegetables",
+    "icon": "lib/icons/vegetable.png"
+  },
+  {
+    "text": "Chicken",
+    "icon": "lib/icons/chicken.png"
+  },
+  {
+    "text": "Groceries",
+    "icon": "lib/icons/groceries.png"
+  },
+  {
+    "text": "Dairy",
+    "icon": "lib/icons/dairy.png"
+  },
+  {
+    "text": "Cosmetics",
+    "icon": "lib/icons/shampoo.png"
+  },
+  {
+    "text": "Fruits",
+    "icon": "lib/icons/fruits.png"
+  }
+]

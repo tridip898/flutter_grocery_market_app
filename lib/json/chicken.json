@@ -1,0 +1,56 @@
+[
+  {
+    "item": "Boiler Chicken",
+    "image": "lib/images/boiler_ckn.png",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "04",
+    "old_price": "06",
+    "description": "A broiler is any chicken that is bred and raised specifically for meat production. Most commercial broilers reach slaughter weight between four and six weeks of age."
+  },
+  {
+    "item": "Desi Chicken",
+    "image": "lib/images/country_ckn.webp",
+    "quantity": "1",
+    "determiner": "pc",
+    "new_price": "8",
+    "old_price": "11",
+    "description": "Country chickens are all native domesticated fowl that are bred by local farmers on a small-scale basis in natural environments – without much interference from farmers. The meat is slightly tougher than white poultry meat, but when cooked, is juicy and soaks in spices beautifully."
+  },
+  {
+    "item": "Desi Duck",
+    "image": "lib/images/duck.jpg",
+    "quantity": "1",
+    "determiner": "pc",
+    "new_price": "7",
+    "old_price": "10",
+    "description": "Duck has a strong flavor, closer to red meat than chicken, for example. It is also fattier and, if cooked the right way, it has a delicious taste that's tender, moist, and fatty—the perfect protein combination for meat lovers."
+  },
+  {
+    "item": "Chicken Wing",
+    "image": "lib/images/ckn_wings.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "3",
+    "old_price": "5",
+    "description": "Chicken wings are white meat, even though they're juicier and have a more concentrated poultry flavor, like dark meat. They can be baked, fried, smoked, or grilled."
+  },
+  {
+    "item": "Boneless",
+    "image": "lib/images/boneless_ckn.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "4.5",
+    "old_price": "7",
+    "description": "Boneless chicken breast is simply chicken breast that has been deboned, or had the bones removed. Skinless boneless chicken breast has been skinned and deboned."
+  },
+  {
+    "item": "Drumstick",
+    "image": "lib/images/drumstick_ckn.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "6",
+    "old_price": "8",
+    "description": "A drumstick is produced by cutting a whole leg. They are a popular choice for grilling, frying, and roasting, and are a low-fat source of protein, containing around 20 grams of protein per serving."
+  }
+]

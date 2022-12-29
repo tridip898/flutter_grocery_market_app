@@ -1,0 +1,56 @@
+[
+  {
+    "item": "Shampoo",
+    "image": "lib/images/shampoo.jpg",
+    "quantity": "1",
+    "determiner": "ltr",
+    "new_price": "7.5",
+    "old_price": "09",
+    "description": "The rohu, rui, ruhi or roho labeo is a species of fish of the carp family, found in rivers in South Asia. It is a large omnivore and extensively used in aquaculture."
+  },
+  {
+    "item": "Soap",
+    "image": "lib/images/soap.jpg",
+    "quantity": "1",
+    "determiner": "pc",
+    "new_price": "1.5",
+    "old_price": "1.9",
+    "description": "Katla fish is very fast growing and suitable fish breed for farming in freshwater pond. It is a very tasty and nutritious fish."
+  },
+  {
+    "item": "Body lotion",
+    "image": "lib/images/lotion.jpg",
+    "quantity": "1",
+    "determiner": "pc",
+    "new_price": "06",
+    "old_price": "07",
+    "description": "Hilsa fish is one of the few fishes that is quite famous for its incredibly soft meat. It is found in rivers and estuaries in Bangladesh, India, Pakistan, Myanmar and the Persian Gulf area but highest proportion of fish caught in Bangladesh area."
+  },
+  {
+    "item": "Face Cream",
+    "image": "lib/images/cream.jpg",
+    "quantity": "1",
+    "determiner": "pc",
+    "new_price": "04",
+    "old_price": "3.5",
+    "description": "Boal fish inhabits rivers, large and small, beels, reservoir, baors and enters the floodplains and roadside ditches. It is a voracious, carnivorous, well known predatory fish."
+  },
+  {
+    "item": "Facewash",
+    "image": "lib/images/face_wash.jpg",
+    "quantity": "1",
+    "determiner": "pc",
+    "new_price": "03",
+    "old_price": "04",
+    "description": "Lovingly called Bhetki by the Bengali's in the east but internationally known as the Asian Sea Bass, this fish has a mild flavour, white flaky flesh with varying amount of body fat. It's quite an iconic table fair in the Australian and Thai cuisines."
+  },
+  {
+    "item": "Sunscreen",
+    "image": "lib/images/sunscreen.jpg",
+    "quantity": "1",
+    "determiner": "pc",
+    "new_price": "03",
+    "old_price": "3.5",
+    "description": "The Gangetic koi, popularly known as Koi in Bengali is a species of climbing gourami native to Bangladesh and India, where it occurs in many types of standing water bodies."
+  }
+]

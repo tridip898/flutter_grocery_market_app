@@ -1,0 +1,47 @@
+[
+  {
+    "item": "Soyabean Oil",
+    "image": "lib/images/oil.jpg",
+    "quantity": "1",
+    "determiner": "ltr",
+    "new_price": "2.5",
+    "old_price": "3",
+    "description": "The rohu, rui, ruhi or roho labeo is a species of fish of the carp family, found in rivers in South Asia. It is a large omnivore and extensively used in aquaculture."
+  },
+  {
+    "item": "Teer Atta",
+    "image": "lib/images/atta.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "0.6",
+    "old_price": "0.8",
+    "description": "Katla fish is very fast growing and suitable fish breed for farming in freshwater pond. It is a very tasty and nutritious fish."
+  },
+  {
+    "item": "Mosur Dal",
+    "image": "lib/images/mosur dal.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "2",
+    "old_price": "3",
+    "description": "Hilsa fish is one of the few fishes that is quite famous for its incredibly soft meat. It is found in rivers and estuaries in Bangladesh, India, Pakistan, Myanmar and the Persian Gulf area but highest proportion of fish caught in Bangladesh area."
+  },
+  {
+    "item": "Poultry Egg",
+    "image": "lib/images/egg.jpg",
+    "quantity": "1",
+    "determiner": "pc",
+    "new_price": "0.2",
+    "old_price": "0.3",
+    "description": "Hilsa fish is one of the few fishes that is quite famous for its incredibly soft meat. It is found in rivers and estuaries in Bangladesh, India, Pakistan, Myanmar and the Persian Gulf area but highest proportion of fish caught in Bangladesh area."
+  },
+  {
+    "item": "Onion",
+    "image": "lib/images/onion.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "1.5",
+    "old_price": "2",
+    "description": "Hilsa fish is one of the few fishes that is quite famous for its incredibly soft meat. It is found in rivers and estuaries in Bangladesh, India, Pakistan, Myanmar and the Persian Gulf area but highest proportion of fish caught in Bangladesh area."
+  }
+]

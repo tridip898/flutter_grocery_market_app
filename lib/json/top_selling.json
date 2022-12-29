@@ -1,0 +1,38 @@
+[
+  {
+    "item": "Beef Shank",
+    "image": "lib/images/beef_shank.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "12",
+    "old_price": "15",
+    "description": "Located beneath the brisket, shank meat is cut from the leg above the knee to the shoulder or hip. The former is the cut for the forelegs and the latter for the hind legs. Because this area is full of connective tissue, the meat is quite tough."
+  },
+  {
+    "item": "Salmon",
+    "image": "lib/images/sal.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "12",
+    "old_price": "17",
+    "description": "A salmon is a large silver-coloured fish. Salmon is the pink flesh of this fish which is eaten as food. It is often smoked and eaten raw."
+  },
+  {
+    "item": "Boiler Chicken",
+    "image": "lib/images/boiler_ckn.png",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "04",
+    "old_price": "06",
+    "description": "A broiler is any chicken that is bred and raised specifically for meat production. Most commercial broilers reach slaughter weight between four and six weeks of age."
+  },
+  {
+    "item": "Tomato",
+    "image": "lib/images/tomato1.jpg",
+    "quantity": "1",
+    "determiner": "kg",
+    "new_price": "1.5",
+    "old_price": "3",
+    "description": "They are usually red, scarlet, or yellow, though green and purple varieties do exist, and they vary in shape from almost spherical to oval and elongate to pear-shaped."
+  }
+]
